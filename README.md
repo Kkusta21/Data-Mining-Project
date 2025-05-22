@@ -26,22 +26,4 @@ The primary goals of this project are:
 - Features:  
   `acousticness`, `danceability`, `duration_ms`, `energy`, `instrumentalness`, `key`, `liveness`, `loudness`, `mode`, `speechiness`, `tempo`, `valence`, `popularity`, `explicit`, `artist`, `track_name`, etc.
 
-## 📁 Project Structure
-
-```plaintext
-/spotify-audio-mining
-├── data/
-│   ├── spotify_audio_features.csv
-│   └── cleaned_dataset.csv
-├── notebooks/
-│   └── analysis.ipynb
-├── visuals/
-│   └── plots and graphs
-├── models/
-│   └── decision_tree.pkl
-│   └── logistic_regression.pkl
-├── report/
-│   └── DataMining_Final_Report.pdf
-├── README.md
-└── requirements.txt
 
